@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**jagadishr3105/jagadishr3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 👋 Hello there, I’m Jagadish Ravulapalli!  
 📊 I’m passionate about using data analytics to optimize supply chain processes and drive operational efficiency.  
 🚀 I specialize in **demand forecasting, inventory management, and logistics analysis**, ensuring smarter decision-making and cost reductions.  
