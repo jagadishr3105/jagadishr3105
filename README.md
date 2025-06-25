@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on quality control case studies and real-world RCA projects  
-- 📝 I regularly write articles on [Medium](https://medium.com/@jagadishr2022)  
+- 📝 I regularly write articles on Medium 
 - 📫 How to reach me: jagadishr3159@gmail.com  
 - 📄 Know more about my experience: [Resume](https://github.com/jagadishr3105)  
 
